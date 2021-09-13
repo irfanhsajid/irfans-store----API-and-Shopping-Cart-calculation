@@ -21,7 +21,7 @@ body {
 .single-product:hover {
   box-shadow: 4px 4px 7px gray;
   border-radius: 10px;
-  border: 2px solid #0004ff;
+  border: 1.5px solid #0004ff;
 }
 .product-image {
   width: 150px;
